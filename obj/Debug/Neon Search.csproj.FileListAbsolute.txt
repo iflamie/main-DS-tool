@@ -1,0 +1,20 @@
+D:\LightSoft\Neon Search\Neon Search\bin\Debug\Neon Search.exe.config
+D:\LightSoft\Neon Search\Neon Search\bin\Debug\Neon Search.exe
+D:\LightSoft\Neon Search\Neon Search\bin\Debug\Neon Search.pdb
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon Search.csproj.AssemblyReference.cache
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon_Search.Form1.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon_Search.Properties.Resources.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon Search.csproj.GenerateResource.cache
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon Search.csproj.CoreCompileInputs.cache
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon Sea.3F151689.Up2Date
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon Search.exe
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon Search.pdb
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon_Search.Form2.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon_Search.Form3.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon_Search.Form4.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon_Search.Form5.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon_Search.Form6.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon_Search.Form7.resources
+D:\LightSoft\Neon Search\Neon Search\bin\Debug\Newtonsoft.Json.xml
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon Search.csproj.Fody.CopyLocal.cache
+D:\LightSoft\Neon Search\Neon Search\obj\Debug\Neon Search.csproj.Fody.RuntimeCopyLocal.cache

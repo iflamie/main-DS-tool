@@ -1,0 +1,31 @@
+D:\LightSoft\Neon Search\Neon Search\bin\Release\Neon Search.exe.config
+D:\LightSoft\Neon Search\Neon Search\bin\Release\Neon Search.exe
+D:\LightSoft\Neon Search\Neon Search\bin\Release\Neon Search.pdb
+D:\LightSoft\Neon Search\Neon Search\bin\Release\Newtonsoft.Json.xml
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon Search.csproj.AssemblyReference.cache
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon_Search.Form1.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon_Search.Form2.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon_Search.Form3.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon_Search.Form4.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon_Search.Form5.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon_Search.Form6.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon_Search.Form7.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon_Search.Properties.Resources.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon Search.csproj.GenerateResource.cache
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon Search.csproj.CoreCompileInputs.cache
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon Sea.3F151689.Up2Date
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon Search.exe
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon Search.pdb
+D:\LightSoft\Neon Search\Neon Search\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\LightSoft\Neon Search\Neon Search\bin\Release\System.Buffers.xml
+D:\LightSoft\Neon Search\Neon Search\bin\Release\System.IO.Pipelines.xml
+D:\LightSoft\Neon Search\Neon Search\bin\Release\System.Memory.xml
+D:\LightSoft\Neon Search\Neon Search\bin\Release\System.Numerics.Vectors.xml
+D:\LightSoft\Neon Search\Neon Search\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\LightSoft\Neon Search\Neon Search\bin\Release\System.Text.Encodings.Web.xml
+D:\LightSoft\Neon Search\Neon Search\bin\Release\System.Text.Json.xml
+D:\LightSoft\Neon Search\Neon Search\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\LightSoft\Neon Search\Neon Search\bin\Release\System.ValueTuple.xml
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon_Search.Form8.resources
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon Search.csproj.Fody.CopyLocal.cache
+D:\LightSoft\Neon Search\Neon Search\obj\Release\Neon Search.csproj.Fody.RuntimeCopyLocal.cache
